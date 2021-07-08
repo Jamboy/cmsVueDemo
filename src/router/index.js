@@ -1,9 +1,21 @@
+/*
+ * @Description:
+ * @Author: Jamboy
+ * @Date: 2021-07-07 14:24:30
+ * @LastEditTime: 2021-07-07 15:13:04
+ */
+// import Vue from 'vue'
+// import Router from 'vue-router'
+// import routes from './route'
+// import store from '../store'
+// import appConfig from '@/config/index'
+// import Util from '@/lin/util/util'
 import Vue from 'vue'
 import Router from 'vue-router'
-import routes from './route'
-import store from '../store'
 import appConfig from '@/config/index'
 import Util from '@/lin/util/util'
+import routes from './route'
+import store from '../store'
 
 Vue.use(Router)
 
